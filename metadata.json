@@ -1,0 +1,6 @@
+{
+  "name": "BSA Projetos",
+  "description": "Portfólio profissional e canais de contato da BSA Projetos para pintura, hidráulica, elétrica, alvenaria, marcenaria e carpintaria no RJ. Solicite orçamentos rápidos de Cabo Frio a Macaé.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

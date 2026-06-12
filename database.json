@@ -1,0 +1,84 @@
+{
+  "tokens": [],
+  "reviews": [],
+  "projects": [
+    {
+      "id": "p1",
+      "title": "Reforma Estrutural & Revestimento Fino de Piscina",
+      "category": "alvenaria",
+      "categoryLabel": "Alvenaria",
+      "location": "Condomínio Ogiva, Cabo Frio",
+      "description": "Retirada de azulejos antigos trincados, impermeabilização com manta bicomponente elástica e assentamento fino de pastilhas de porcelana em gradiente de azul. Acabamento perfeito com rejunte acrílico anti-mofo.",
+      "imageUrl": "https://picsum.photos/seed/bsapool1/700/500",
+      "beforeAfter": {
+        "beforeDesc": "Vazamento ativo pelas fissuras, pastilhas soltas e infiltração na fundação.",
+        "afterDesc": "Estanqueidade 100% garantida por teste de carga, visual moderno e brilhante com pastilhas novas."
+      }
+    },
+    {
+      "id": "p2",
+      "title": "Instalação de Gesso 3D e Pintura de Alto Padrão",
+      "category": "pintura",
+      "categoryLabel": "Pintura",
+      "location": "Geribá, Armação dos Búzios",
+      "description": "Aplicação de placas de gesso decorativas 3D, emassamento minucioso para emendas invisíveis e pintura premium com acabamento acetinado de fácil limpeza. Linhas de corte perfeitas no gesso.",
+      "imageUrl": "https://picsum.photos/seed/bsapaintgipse/700/500",
+      "beforeAfter": {
+        "beforeDesc": "Parede de sala vazia com pequenas imperfeições no reboco e cor desbotada.",
+        "afterDesc": "Parede focal tridimensional artística com luz rasgante e toque aveludado impecável."
+      }
+    },
+    {
+      "id": "p3",
+      "title": "Banheiro de Luxo com Tubulação Termofusão (PPR)",
+      "category": "hidraulica",
+      "categoryLabel": "Hidráulica",
+      "location": "Praia do Forte, Cabo Frio",
+      "description": "Retrofitting hidráulico completo de banheiro antigo. Substituição de canos de metal enferrujados por canos PPR de termofusão (eliminando conexões roscáveis e riscos de vazamentos). Instalação de misturadores monocomando.",
+      "imageUrl": "https://picsum.photos/seed/bsabathroomhyd/700/500",
+      "beforeAfter": {
+        "beforeDesc": "Infiltração grave descendo para o vizinho e metais obsoletos enferrujados.",
+        "afterDesc": "Tubulação moderna embutida com nicho de porcelanato esculpido e metais funcionais sem vazamentos."
+      }
+    },
+    {
+      "id": "p4",
+      "title": "Painel Ripado em MDF e Cozinha sob Medida",
+      "category": "marcenaria",
+      "categoryLabel": "Marcenaria",
+      "location": "Unamar, Cabo Frio",
+      "description": "Fabricação e montagem de móveis planejados para cozinha gourmet. Painel ripado de alta definição em MDF Naval resistente à maresia litorânea e ferragens amortecidas de fechamento suave.",
+      "imageUrl": "https://picsum.photos/seed/bsacabinetwood/700/500",
+      "beforeAfter": {
+        "beforeDesc": "Cozinha sem aproveitamento de espaço com armários prontos de aglomerado estufados.",
+        "afterDesc": "Móveis planejados resistentes à umidade do salitre, com divisórias pensadas e fechamento leve."
+      }
+    },
+    {
+      "id": "p5",
+      "title": "Quadro Geral de Distribuição & Fita LED Decorativa",
+      "category": "eletrica",
+      "categoryLabel": "Elétrica",
+      "location": "Centro, São Pedro da Aldeia",
+      "description": "Reestruturação total do padrão elétrico residencial. Divisão adequada de circuitos de alta potência (ar-condicionado e chuveiro), implementação de dispositivos DR (contra choque) e DPS (surto de raios). Instalação de perfis de iluminação LED.",
+      "imageUrl": "https://picsum.photos/seed/bsaelectricalled/700/500",
+      "beforeAfter": {
+        "beforeDesc": "Disjuntores antigos pretos incompatíveis e fiação geral aquecendo, sem aterramento.",
+        "afterDesc": "Rede elétrica sintonizada sob as normas NBR 5410, segura contra curtos e esteticamente moderna."
+      }
+    },
+    {
+      "id": "p6",
+      "title": "Assentamento de Porcelanato Retificado de Grande Formato",
+      "category": "alvenaria",
+      "categoryLabel": "Alvenaria",
+      "location": "Prainha, Arraial do Cabo",
+      "description": "Colocação de piso porcelanato retificado 90x90cm com niveladores de precisão. Juntas de apenas 1.5mm, contrapiso previamente impermeabilizado contra umidade subida do solo arenoso próximo da praia.",
+      "imageUrl": "https://picsum.photos/seed/bsatilefloor/700/500",
+      "beforeAfter": {
+        "beforeDesc": "Piso cerâmico antigo estufado devido à dilatação e umidade do lençol freático.",
+        "afterDesc": "Piso plano como um espelho de forma estanque, resistente e fácil de limpar."
+      }
+    }
+  ]
+}

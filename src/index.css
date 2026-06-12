@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=Inter:wght@300;400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", system-ui, -apple-system, sans-serif;
+  --font-display: "Plus Jakarta Sans", system-ui, -apple-system, sans-serif;
+  
+  /* Brand Theme Custom Colors */
+  --color-brand-blue: #0b2545;
+  --color-brand-blue-light: #134074;
+  --color-brand-orange: #d49b6a;
+  --color-brand-orange-dark: #b88051;
+  --color-brand-gray-light: #f4f7fa;
+  --color-brand-gray-dark: #1b263b;
+  --color-whatsapp-green: #25d366;
+  --color-whatsapp-green-dark: #128c7e;
+
+  --animate-pulse-slow: pulse 3s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+  --animate-float: float 4s ease-in-out infinite;
+}
+
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-8px);
+  }
+}
+
+/* Custom Base Tweaks for Smooth UX */
+html {
+  scroll-behavior: smooth;
+  -webkit-tap-highlight-color: transparent;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: #fafbfc;
+  color: #1e293b;
+  overflow-x: hidden;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-display);
+}
+
+/* High contrast shadow style */
+.bsa-shadow {
+  box-shadow: 0 4px 20px -2px rgba(11, 37, 69, 0.08), 0 2px 8px -1px rgba(11, 37, 69, 0.04);
+}
+
+.bsa-shadow-lg {
+  box-shadow: 0 10px 30px -4px rgba(11, 37, 69, 0.12), 0 4px 12px -2px rgba(11, 37, 69, 0.06);
+}
+
+.bsa-shadow-orange {
+  box-shadow: 0 8px 24px -4px rgba(212, 155, 106, 0.25);
+}
+
+/* Smooth custom scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #f1f5f9;
+}
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}
